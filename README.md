@@ -7,8 +7,10 @@
 - Brayan Camilo Valenzuela Rincón
 
 
-**Universidad Industrial de Santander (UIS)**
-**Ingenieria de Sistemas**
-**2019**
+**Universidad Industrial de Santander (UIS)**<br/>
+**Ingenieria de Sistemas**<br/>
+**2019**<br/>
 
-# Introduccion:
+# Introducción:
+
+El desgaste es conocido como una de las principales razones por las que fallan o directamente se inhabilitan los sistemas mecanicos<br/>
