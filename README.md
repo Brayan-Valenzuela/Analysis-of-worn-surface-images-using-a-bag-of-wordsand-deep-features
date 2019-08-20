@@ -37,3 +37,10 @@ Ademas de 84 imagenes sin etiquetar que fueron usadas en la bolsa de palabras.
 - Desarrollo de una herramienta de marcacion de imagenes facilitar el estudio del desgaste.
 
 - Implementación a nivel industrial para la deteccion de mantenimiento en sistemas emcanicos.
+
+
+# Referencias:
+
+- DETECTION ANDMONITORING OF WEARUSING IMAGINGMETHODS(2006)
+- WEARMEASUREMENT OFCUTTING TOOLS BYCOMPUTER VISION (1988)
+- WEAR MEASUREMENT OF CUTTING TOOLS BYCOMPUTER VISION (2018)
