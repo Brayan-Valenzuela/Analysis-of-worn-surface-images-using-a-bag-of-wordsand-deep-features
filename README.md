@@ -48,6 +48,8 @@ Ademas de 84 imagenes sin etiquetar que fueron usadas en la bolsa de palabras.
 
 - Deep features.
 
+- Mixture of gaussian.
+
 
 # Referencias:
 
