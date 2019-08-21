@@ -50,9 +50,12 @@ Ademas de 84 imagenes sin etiquetar que fueron usadas en la bolsa de palabras.
 
 - Mixture of gaussian.
 
+# Video:
+
+- https://drive.google.com/file/d/14Ofv1K0Bm7RE1esqpt5zwDXJlzoyPvid/view?usp=sharing
+
 
 # Referencias:
 
 - DETECTION ANDMONITORING OF WEARUSING IMAGINGMETHODS(2006)
-- WEARMEASUREMENT OFCUTTING TOOLS BYCOMPUTER VISION (1988)
-- WEAR MEASUREMENT OF CUTTING TOOLS BYCOMPUTER VISION (2018)
+- WEAR MEASUREMENT OF CUTTING TOOLS BY COMPUTER VISION (1988)
