@@ -27,9 +27,7 @@ Ademas de 84 imagenes sin etiquetar que fueron usadas en la bolsa de palabras.
 
 # Objetivos:
 
-- Realizar un reconocimiento de los diferentes regimenes de desgaste.
-- Estudiar el comportamiento de deferentes enfoques de cuantificacion de la información para realizar la tarea de reconocimiento.
-- Realizar una reconstrucción significativa de los mapas de desgaste.
+- Realizar un reconocimiento de los diferentes regimenes de desgaste usando machine learning y tecnicas de vision por computador.
 
 
 # Aplicaciones:
