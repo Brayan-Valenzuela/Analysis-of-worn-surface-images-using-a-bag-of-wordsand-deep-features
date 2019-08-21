@@ -36,6 +36,18 @@ Ademas de 84 imagenes sin etiquetar que fueron usadas en la bolsa de palabras.
 
 - Implementación a nivel industrial para la deteccion de mantenimiento en sistemas emcanicos.
 
+# Modelo y metodos usados:
+
+- Random Forest.
+
+- Bag of words.
+
+- Kmeans.
+
+- Histograma de gradientes orientados Hog
+
+- Deep features.
+
 
 # Referencias:
 
